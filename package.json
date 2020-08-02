@@ -1,0 +1,17 @@
+{
+  "name": "projeto-node",
+  "version": "1.0.0",
+  "description": "verificador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "verificador"
+  ],
+  "author": "Addailton L F Junior",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
